@@ -3,9 +3,9 @@
 
 IT professional with experience in support, maintenance and technical delivery in enterprise environments. Excited to dive into the cloud native side of the things. ⛅
 
-I am continuously learning! Here you will see what I am experimenting with from IT stuff 💾 to knowledge management 🧠 and, why not, Theology 🐟.
+I am continuously learning! Here you will see what I am experimenting with, from IT stuff 💾 to knowledge management 🧠 and, why not, Theology 🐟.
 
-Feel free to ping me if want to chat about the stuff you see here.
+Feel free to ping me (check the link on the left) if you want to chat about the stuff you see here.
 
 ---
 
