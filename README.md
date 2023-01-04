@@ -1,4 +1,4 @@
-# Howdy, I'm Denis Couto 👋
+# Howdy, I'm Denis Couto 👍
 ---
 
 IT professional with experience in support, maintenance and technical delivery in enterprise environments. Excited to dive into the cloud native side of the things. ⛅
