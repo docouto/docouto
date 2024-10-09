@@ -1,7 +1,7 @@
 # Howdy, I'm Denis Couto 👍
 ---
 
-IT professional with experience in support, maintenance and technical delivery in enterprise environments. Excited to dive into the cloud native side of the things. ⛅
+IT professional with experience in support, maintenance and technical delivery in enterprise environments both on prem and at Cloud. ⛅
 
 I am continuously learning! Here you will see what I am experimenting with, from IT stuff 💾 to knowledge management 🧠 and, why not, Theology 🐟.
 
