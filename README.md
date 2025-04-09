@@ -1,9 +1,10 @@
 # Howdy, I'm Denis Couto 👍
 ---
 
-IT professional with experience in support, maintenance and technical delivery in enterprise environments both on prem and at Cloud. ⛅
+A mature professional with many years in the field, blending technical expertise with clear communication and leadership skills. 
+Experienced in designing, deploying and technical delivery in small and large enterprise environments both on prem and at Cloud. ⛅
 
-I am continuously learning! Here you will see what I am experimenting with, from IT stuff 💾 to knowledge management 🧠 and, why not, Theology 🐟.
+I am continuously learning! Here you will find what I am experimenting with, from IT stuff 💾 to knowledge management 🧠 and, why not, Theology 🐟.
 
 Feel free to ping me (check the link on the left) if you want to chat about the stuff you see here.
 
